@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "test1",
+      "author": "test1 author"
+    },
+    {
+      "title": "test2",
+      "author": "test2 author"
+    }
+  ],
+  "profile": [
+    {
+      "first_name": "test name",
+      "last_name": "last name test"
+    }
+
+  ]
+}
